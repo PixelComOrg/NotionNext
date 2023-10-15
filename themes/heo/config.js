@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
+    { title: '欢迎来到 Pixel Community Org', url: 'https://pixelcom.vercel.app/about' },
     { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   ],
 
@@ -36,7 +36,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  INFO_CARD_URL: 'https://github.com/PixelComOrg', // 个人资料底部按钮链接
 
   // 用户技能图标
   GROUP_ICONS: [
