@@ -15,7 +15,7 @@ const CONFIG = {
   HERO_TITLE_3: 'Pixel Community Org',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: '查看更多精彩活动',
-  HERO_TITLE_LINK: 'https://tangly1024.com',
+  HERO_TITLE_LINK: 'https://pixelcom.vercel.app',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
