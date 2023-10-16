@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到 Pixel Community Org', url: 'https://pixelcom.vercel.app/about' },
-    { title: '访问 YouTube 解锁更多视频内容', url: 'https://www.youtube.com/channel/UCdBbLWvwhRmtiQibWrvXXeA }
+    { title: '访问 YouTube 解锁更多视频内容', url: 'https://www.youtube.com/channel/UCdBbLWvwhRmtiQibWrvXXeA' }
   ],
 
   // 英雄区(首页顶部大卡)
