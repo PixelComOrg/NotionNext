@@ -10,8 +10,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享游戏开发技术',
-  HERO_TITLE_2: '与交流',
+  HERO_TITLE_1: '游戏开发',
+  HERO_TITLE_2: '技术交流',
   HERO_TITLE_3: 'Pixel Community Org',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: '查看更多精彩活动',
