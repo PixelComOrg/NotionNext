@@ -70,7 +70,7 @@ const CONFIG = {
       color_1: '#ffffff',
       title_2: 'Godot',
       img_2: '/images/heo/godot.webp',
-      color_2: '#8f55ba'
+      color_2: '#1f1f1f'
     },
     {
       title_1: 'Blender',
