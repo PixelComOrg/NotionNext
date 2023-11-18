@@ -18,8 +18,8 @@ const CONFIG = {
   HERO_TITLE_LINK: 'https://cheerful-firefly-e14.notion.site/7bf35ba26b154cc1989a9d7cdfb9f5f1',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
+  HERO_CATEGORY_1: { title: '会员发表', url: '/tag/会员发表' },
+  HERO_CATEGORY_2: { title: '通告', url: '/tag/通告' },
   HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
